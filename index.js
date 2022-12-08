@@ -6,5 +6,24 @@ const root = document.querySelector("#root");
 const header = Header("Greeting App XTreme XXXL v.42");
 root.append(header);
 
-const greeting = Greeting(["Dalia", "Jerry", "Dominik", "Thomas", "Niklas"]);
+const greeting = Greeting([
+  "Dalia",
+  "Jerry",
+  "Andreas",
+  "Astrid",
+  "Diren",
+  "Gülfem",
+  "Iris",
+  "Jannes",
+  "Magnus",
+  "Niklas",
+  "Robin",
+  "Sascha",
+  "Tariq",
+  "Yuri",
+  "Dominik",
+  "Thomas",
+  "Niklas",
+]);
+
 root.append(greeting);
