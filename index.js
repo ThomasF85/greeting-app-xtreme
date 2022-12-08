@@ -21,5 +21,9 @@ const greeting = Greeting([
   "Sascha",
   "Tariq",
   "Yuri",
+  "Dominik",
+  "Thomas",
+  "Niklas",
 ]);
+
 root.append(greeting);
